@@ -1,0 +1,17 @@
+https://hostloc.com/thread-879713-1-2.html
+
+原帖地址
+
+[url][url]https://hostloc.com/thread-879685-1-1.html[/url][/url]
+
+我搭建的地址
+
+https://vps.pages.dev/
+
+我的搭建教程
+
+下载大佬提供的离线包，7z格式linux下不知道咋解压，我就重新打包了linux.zip
+
+然后去github创建一个项目，把这个linux.zip传上去
+
+然后去cf pages，选择这个项目，然后设置，构建命令是这个 unzip linux.zip ，然后等构建成功就行。
